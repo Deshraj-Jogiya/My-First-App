@@ -196,7 +196,7 @@ No configuration needed.
 
 # License
 
-Copyright (C) 2016 - Niklas Baudy, Ruben Gees, Mario Đanić and contributors
+Copyright (C) 2016 - vannitech
 
 Licensed under the Apache License, Version 2.0
 # My-First-App
